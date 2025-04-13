@@ -58,5 +58,3 @@ Apaixonado por tecnologia, automação e programação. Aqui compartilho meus pr
 
 ---
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=JDavid578&icon=0&color=0)](https://visitcount.itsvg.in)  
-*Quantas pessoas visitaram este perfil!*
