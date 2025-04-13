@@ -51,7 +51,7 @@ Apaixonado por tecnologia, automação e programação. Aqui compartilho meus pr
 
   </td>
   <td align="right">
-    <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif" alt="Yami Sukehiro" width="450">
+    <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif" alt="Yami Sukehiro" width="430">
   </td>
   </tr>
 </table>
