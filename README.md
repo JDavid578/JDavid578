@@ -43,7 +43,7 @@ Apaixonado por tecnologia, automação e programação. Aqui compartilho meus pr
 
 ### *Uma frase inspiradora para programadores:*
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Repositórios com Mais Contribuições
 
