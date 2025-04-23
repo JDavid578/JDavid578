@@ -1,4 +1,4 @@
-# Olá! Sou Jamerson David 👋  
+# Olá! Sou Jamerson David!  
 Sou estudante de programação e curso Engenharia de Controle e Automação na UPE!  
 Apaixonado por tecnologia, automação e programação. Aqui compartilho meus projetos e contribuições para o mundo do código! 💻
 
