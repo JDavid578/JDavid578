@@ -31,27 +31,27 @@ Apaixonado por tecnologia, automação e programação. Aqui compartilho meus pr
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JDavid578&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDavid578&theme=merko&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JDavid578&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDavid578&theme=cobalt&hide_border=true)
 
 ---
 
-## ✍️ Frase Aleatória de Desenvolvedor & Repositórios
+
 <table>
   <tr>
     <td>
 
-### *Uma frase inspiradora para programadores:*
+### *Frase inspiradora:*
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Repositórios com Mais Contribuições
+### linguagens
 
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=JDavid578&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent&hide_border=true&count_private=true)
 
   </td>
   <td align="right">
-    <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif" alt="Yami Sukehiro" width="430">
+    <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif" alt="asta" width="430">
   </td>
   </tr>
 </table>
