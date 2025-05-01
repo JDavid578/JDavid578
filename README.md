@@ -47,7 +47,7 @@ Apaixonado por tecnologia, automação e programação. Aqui compartilho meus pr
 
 ### linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDavid578&layout=donut&theme=transparent&hide_border=true&count_private=true)
 
   </td>
   <td align="right">
